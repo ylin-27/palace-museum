@@ -70,7 +70,7 @@ ssh git@github.com
 之后提交项目到仓库，使用上面的地址
 
  
-
+<br>
 
 
 ### 如何解决git上传文件出错[rejected] master -＞ master (fetch first) error: failed to push some refs to ‘
@@ -105,7 +105,7 @@ git push origin master
 
 
 
-
+<br>
 
 ### 解决 fatal: unable to access ‘https://github.com/...‘: Encountered end of file
 
