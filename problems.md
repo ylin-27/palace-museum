@@ -77,7 +77,7 @@ ssh git@github.com
 
 git push 时报错，如：
 
-![image-20220602093640683](C:/Users/86180/AppData/Roaming/Typora/typora-user-images/image-20220602093640683.png) 
+![image-20220602093640683](https://github.com/ylin-27/palace-museum/blob/master/problems/image-20220602093640683.png) 
 
 #### **解决方法**
 
