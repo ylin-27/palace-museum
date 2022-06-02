@@ -23,29 +23,29 @@ ssh -keygen -t rsa -C
 
 ​     创建成功会在当前使用的用户目录（C盘）下生成.ssh文件夹：
 
-​     <img src="C:/Users/86180/AppData/Roaming/Typora/typora-user-images/image-20220602100430637.png" alt="image-20220602100430637" style="zoom:67%;" />  
+​     <img src="https://github.com/ylin-27/palace-museum/blob/master/problems/image-20220602100430637.png" alt="image-20220602100430637" style="zoom:67%;" />  
 
 
 
 3、用vscode(代码编辑器即可)打开下面文件，全选并复制：
 
-​      <img src="C:/Users/86180/AppData/Roaming/Typora/typora-user-images/image-20220602100701120.png" alt="image-20220602100701120" style="zoom: 67%;" />  
+​      <img src="https://github.com/ylin-27/palace-museum/blob/master/problems/image-20220602100701120.png" alt="image-20220602100701120" style="zoom: 67%;" />  
 
 
 
 4、打开github，点击自己的头像>Settings
 
-​      <img src="C:/Users/86180/AppData/Roaming/Typora/typora-user-images/image-20220602102927850.png" alt="image-20220602102927850" style="zoom:67%;" />       
+​      <img src="https://github.com/ylin-27/palace-museum/blob/master/problems/image-20220602102927850.png" alt="image-20220602102927850" style="zoom:67%;" />       
 
 
 
-![image-20220602101421123](C:/Users/86180/AppData/Roaming/Typora/typora-user-images/image-20220602101421123.png)
+![image-20220602101421123](https://github.com/ylin-27/palace-museum/blob/master/problems/image-20220602101421123.png)
 
 
 
 ​    添加成功后显示：
 
-​       ![image-20220602101926925](C:/Users/86180/AppData/Roaming/Typora/typora-user-images/image-20220602101926925.png)  
+​       ![image-20220602101926925](https://github.com/ylin-27/palace-museum/blob/master/problems/image-20220602101926925.png)  
 
 ​	
 
@@ -57,13 +57,13 @@ ssh git@github.com
 
    成功：
 
- <img src="C:/Users/86180/AppData/Roaming/Typora/typora-user-images/image-20220602103613492.png" alt="image-20220602103613492" style="zoom:67%;" /> 
+ <img src="https://github.com/ylin-27/palace-museum/blob/master/problems/image-20220602103613492.png" alt="image-20220602103613492" style="zoom:67%;" /> 
 
 
 
 5、查看是否生成SSH仓库地址
 
-​      <img src="C:/Users/86180/AppData/Roaming/Typora/typora-user-images/image-20220602103044617.png" alt="image-20220602103044617" style="zoom: 67%;" />  
+​      <img src="https://github.com/ylin-27/palace-museum/blob/master/problems/image-20220602103044617.png" alt="image-20220602103044617" style="zoom: 67%;" />  
 
 ​     
 
@@ -89,7 +89,7 @@ git pull --rebase origin master
 
 ​      例如：
 
-​      ![image-20220602093901679](C:/Users/86180/AppData/Roaming/Typora/typora-user-images/image-20220602093901679.png)  
+​      ![image-20220602093901679](https://github.com/ylin-27/palace-museum/blob/master/problems/image-20220602093901679.png)  
 
  
 
@@ -101,7 +101,7 @@ git push origin master
 
 ​      例如：
 
-​      ![image-20220602094305581](C:/Users/86180/AppData/Roaming/Typora/typora-user-images/image-20220602094305581.png)  
+​      ![image-20220602094305581](https://github.com/ylin-27/palace-museum/blob/master/problems/image-20220602094305581.png)  
 
 
 
